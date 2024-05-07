@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anzal
-- 👀 I love building products. 
-- 👨‍💼 I’m looking to collaborate on building startups and early stage businesses 
+- I am a product builder, arm chair philosopher and mental health enthusiast. I currently work as a Senior Software Engineer at Homebase.
 - 📫 You can reach me at `anzal.ansari@gmail.com` 
 
 <!---
